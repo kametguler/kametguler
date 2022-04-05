@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kametguler
-- 👀 I’m interested in Web Development Backend (Python, PHP) Frontend (HTML,CSS, Bootstrap ,Jquery)
+- 👀 I’m interested in Web Development Backend (Python -> Django, Flask) Frontend (HTML,CSS, Bootstrap ,Vue.js, React.js)
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... kametguler
