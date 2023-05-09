@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">📚 I'm improving myself on backend (Python, Java).<br>🎯 Goals: Work in an international company<br>🎲 Fun fact: Coding.</p>
+<p align="left">📚 I'm improving myself on backend.<br>🎯 Job: Working as a RPA Developer<br>🎲 Fun fact: Coding.</p>
 
 ###
 
